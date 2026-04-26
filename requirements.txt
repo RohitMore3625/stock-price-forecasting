@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow
+yfinance
+streamlit
+joblib
+fastapi
+uvicorn
+mlflow
+textblob
